@@ -10,7 +10,7 @@ AIに愚痴ったこと、ありますか。
 
 そういうの全部やめたAIを作りました。名前は「霧人（きりじん）」。
 
-👉 **ここから話せます**: https://claude.ai/public/artifacts/110ac131-11a5-4f6b-96eb-6f6837507c4d
+👉 **ここから話せます**: [https://claude.ai/public/artifacts/110ac131-11a5-4f6b-96eb-6f6837507c4d](https://claude.ai/public/artifacts/842ce106-5427-4491-a24a-ee39c311bd91)
 
 ## 何が違うの?
 
